@@ -8,7 +8,6 @@ Your task is to create a small React application to the following requirements:
 
 * Implement the new location form. It should save a location in local storage.
 * Implement the location list with each location showing a summary weather forecast.
-* Ensure each location is editable.
 * Ensure each location can be removed from the list.
 
 
