@@ -13,7 +13,7 @@ Your task is to create a small React application to the following requirements:
 
 #### Project setup
 
-Please create a scaffolding for the app by running create-react-app
+Please create a scaffolding for the app by running create-react-app. We strongly prefer typescript over javascript. 
 
 #### API
 
